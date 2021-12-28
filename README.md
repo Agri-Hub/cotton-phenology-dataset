@@ -38,7 +38,7 @@ The  field  visits  were  appropriately  scheduled  in  order  to have  minimal 
 ### Photos
 [Here]() one can find all the photos from in-situ visits. They can be retrieved by photo's name. Specifically, each photo is named in the following form `Date_id-{O,A,B}.jpg` where `date = date of visit`, `id = the unqiue identifier of parcel` in 4 digits e.g 0073 and one of three letter `{O,A,B}` where `O = overall`, `A = main stage` and `B = secondary stage` .
 
-img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/images/kde_plot_6_2nd.png" alt="kde_plot_6_2nd" width="600"/>
+<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-O.jpg?raw=true" alt="parcel" width="600"/>
 
 ### Reference
 ```
