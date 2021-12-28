@@ -58,7 +58,7 @@ This work is part of e-shape's[^3] pilot [S1P2 EU CAP Support](https://e-shape.e
 Researchers:  Alkiviadis Marios Koukos (akoukos@noa.gr), Vasileios Sitokonstantinou (vsito@noa.gr), Ilias Tsoumas (i.tsoumas@noa.gr)
 
 [^1]: A `code=0` placed inside the cells of `.csv` in the cases of absence of secondary phenological stage.
-[^2]: Given that some in-situ visits abstained the same in terms of DoYs from two Sentinel-2 acquisitions we have in total 1524 Sentinel-2 acquisitions in which is assigned with in-situ visit.
+[^2]: Given that some in-situ visits abstained the same in terms of DoYs from two Sentinel-2 acquisitions we have in total 1524 Sentinel-2 acquisitions in which are assigned in-situ visit.
 [^3]: The e-shape project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement 820852
 
 
