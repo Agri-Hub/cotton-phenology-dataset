@@ -27,16 +27,20 @@ There are available:
 | `Boll Opening` | 97 | 177 | 6 |
 | **`Total`**[^2]  | **1286** | **668** | - |
 
-The  field  visits  were  appropriately  scheduled  in  order  to have  minimal  differences  between  ground  and  satellite  observations.  Thus, difference between  the  ground  and  the Sentinel-2 observation was `mean = 0.67 days` with `standard deviation = 0.58 days` . 
+The  field  visits  were  appropriately  scheduled  in  order  to have  minimal  differences  between  ground  and  satellite  observations.  Thus, difference between  the  ground  and  the Sentinel-2 observation was `mean = 0.67 days` with `standard deviation = 0.58 days` .
 
-#### Observed distributions of main phenological stages  
-<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/images/kde_plot_6_1st.png" alt="kde_plot_6_1st" width="600"/>
+*(they will be public available after the paper publication)*
 
-#### Observed distributions of secondary phenological stages
-<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/images/kde_plot_6_2nd.png" alt="kde_plot_6_2nd" width="600"/>
+#### Empirical cumulative distribution functions
+of main & secondary stages as recorded by inspector
+<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/images/ecdf_plot_12.png?raw=true" alt="ecdf_plot_12" width="700"/>
 
 ### Photos
-[Here]() one can find all the photos from in-situ visits. They can be retrieved by photo's name. Specifically, each photo is named in the following form `Date_id-{O,A,B}.jpg` where `date = date of visit`, `id = the unqiue identifier of parcel in 4 digits e.g 0073` and one of three letters `{O,A,B}` where `O = overall`, `A = main stage` and `B = secondary stage` .
+[Here]() one can find all the photos from in-situ visits.
+
+*(they will be public available after the paper publication)* 
+
+They can be retrieved by photo's name. Specifically, each photo is named in the following form `Date_id-{O,A,B}.jpg` where `date = date of visit`, `id = the unqiue identifier of parcel in 4 digits e.g 0073` and one of three letters `{O,A,B}` where `O = overall`, `A = main stage` and `B = secondary stage` .
 
 <img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-O.jpg?raw=true" alt="parcel" width="600"/>
 
