@@ -1,5 +1,5 @@
 ## Photos from in-situ visits
-The folder contains a small sample and in the [link]() one can find all the photos from in-situ visits. 
+The sub-directory contains a small sample and in the [link]() one can find all the photos from in-situ visits. 
 
 *(they will be public available after the paper publication)*
 
