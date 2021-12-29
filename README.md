@@ -41,12 +41,16 @@ The  field  visits  were  appropriately  scheduled  in  order  to have  minimal 
 <img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-O.jpg?raw=true" alt="parcel" width="600"/>
 
 ### Reference
+
+If you use this dataset please cite the publication below
+
 ```
-@article{,
-  title={},
-  author={},
-  journal={},
-  year={}
+@article{Unsupervised phenology estimatio for cotton,
+  author={Vasileios Sitokonstantinou, Alkiviadis Koukos, Ilias Tsoumas, Nikolaos S. Bartsotas, Charalampos Kontoes, Vassilia Karathanassi},
+  title={Unsupervised phenology prediction for cotton},
+  journal={TBD},
+  doi={TBD},
+  year={2022}
 }
 ```
 
