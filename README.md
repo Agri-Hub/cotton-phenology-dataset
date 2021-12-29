@@ -45,9 +45,9 @@ The  field  visits  were  appropriately  scheduled  in  order  to have  minimal 
 If you use this dataset please cite the publication below
 
 ```
-@article{Unsupervised phenology estimatio for cotton,
+@article{Unsupervised phenology estimation for cotton,
   author={Vasileios Sitokonstantinou, Alkiviadis Koukos, Ilias Tsoumas, Nikolaos S. Bartsotas, Charalampos Kontoes, Vassilia Karathanassi},
-  title={Unsupervised phenology prediction for cotton},
+  title={Unsupervised phenology estimation for cotton},
   journal={TBD},
   doi={TBD},
   year={2022}
