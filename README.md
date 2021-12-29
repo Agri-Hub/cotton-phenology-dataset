@@ -36,7 +36,10 @@ of main & secondary stages as recorded by inspector
 <img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/images/ecdf_plot_12.png?raw=true" alt="ecdf_plot_12" width="700"/>
 
 ### Photos
-[Here]() one can find all the photos from in-situ visits *(they will be public available after the paper publication)*. 
+[Here]() one can find all the photos from in-situ visits.
+
+*(they will be public available after the paper publication)* 
+
 They can be retrieved by photo's name. Specifically, each photo is named in the following form `Date_id-{O,A,B}.jpg` where `date = date of visit`, `id = the unqiue identifier of parcel in 4 digits e.g 0073` and one of three letters `{O,A,B}` where `O = overall`, `A = main stage` and `B = secondary stage` .
 
 <img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-O.jpg?raw=true" alt="parcel" width="600"/>
