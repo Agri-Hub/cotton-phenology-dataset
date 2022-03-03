@@ -49,9 +49,9 @@ They can be retrieved by photo's name. Specifically, each photo is named in the 
 If you use this dataset please cite the publication below
 
 ```
-@article{Unsupervised phenology estimation for cotton,
+@article{Unsupervised fuzzy clustering for the within-season estimation of cotton phenology,
   author={Vasileios Sitokonstantinou, Alkiviadis Koukos, Ilias Tsoumas, Nikolaos S. Bartsotas, Charalampos Kontoes, Vassilia Karathanassi},
-  title={Unsupervised phenology estimation for cotton},
+  title={Unsupervised fuzzy clustering for the within-season estimation of cotton phenology},
   journal={TBD},
   doi={TBD},
   year={2022}
