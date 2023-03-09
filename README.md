@@ -82,11 +82,11 @@ of main & secondary stages as recorded by inspector
 ### Photos
 
 <p align="center">
-<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-A.jpg?raw=true" alt="main stage" height="480" width="480" title="Main stage"/>
-<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-B.jpg?raw=true" alt="secondary stage" height="480" width="480" title="Secondary stage"/>
+<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-A.jpg?raw=true" title="Main stage" alt="main stage" height="480" width="480">
+<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-B.jpg?raw=true"  title="Secondary stage" alt="secondary stage" height="480" width="480">
 </p>
 <p align="center">
-<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-O.jpg?raw=true" alt="parcel" height="600" width="600" title="Panoramic"/>
+<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-O.jpg?raw=true" title="Panoramic" alt="panoramic" height="600" width="600" >
 </p>
 
 ### Acknowledgements
