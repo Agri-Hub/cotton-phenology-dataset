@@ -88,9 +88,9 @@ of main & secondary stages as recorded by inspector
      <td>Panoramic</td>
   </tr>
   <tr>
-    <td><img src="(https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-A.jpg?raw=true" width=270 height=480></td>
-    <td><img src="(https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-B.jpg?raw=true" width=270 height=480></td>
-    <td><img src="(https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-O.jpg?raw=true" width=270 height=480></td>
+    <td><img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/final_version/insitu-photos/demo_sample/20210616_0001-A.jpg" width=270 height=480></td>
+    <td><img src="(https://github.com/Agri-Hub/cotton-phenology-dataset/blob/final_version/insitu-photos/demo_sample/20210616_0001-B.jpg" width=270 height=480></td>
+    <td><img src="(https://github.com/Agri-Hub/cotton-phenology-dataset/blob/final_version/insitu-photos/demo_sample/20210616_0001-O.jpg" width=270 height=480></td>
   </tr>
  </table>
 
