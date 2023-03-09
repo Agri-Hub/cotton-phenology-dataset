@@ -45,9 +45,6 @@ bash download.sh phenology
 or download everything with `bash download.sh all`
 <br/><br/>
 
-There are available: 
-- a geojson file, which contains the polygons of 80 parcels coupled with an id. 
-
 ### 1286 Unique Visits in 80 Parcels 
 ![parcels](/images/parcels.png)
 
@@ -57,7 +54,8 @@ There are available:
   - each visit is assigned to the nearest sentinel-2 acquistion or acquistions.
 
 ### Labels
-![labeled_parcels](/images/labeled_parcels_all.png)
+
+<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/images/labeled_parcels_all.png)" width="48">
 
 ### Overall Statistics
 
