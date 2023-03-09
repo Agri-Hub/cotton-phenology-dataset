@@ -55,9 +55,11 @@ or download everything with `bash download.sh all`
 ## Overview
 
 ### 1286 Unique Visits in 80 Parcels 
+
+<p float="center">
 <img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/images/parcels.png" width="480" height="480">
 <img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/images/labeled_parcels_all.png" width="480" height="480">
-<br/>
+</p>
 
 ### Overall Statistics
 
