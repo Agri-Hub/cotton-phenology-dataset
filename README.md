@@ -83,7 +83,7 @@ of main & secondary stages as recorded by inspector
 
          Main stage        |      Secondary stage      |        Panoramic         
 :-------------------------:|:-------------------------:|:-------------------------:
-![main stage](insitu-photos/demo_sample/20210616_0001-A.jpg "Main stage") | ![secondary stage](insitu-photos/demo_sample/20210616_0001-A.jpg "Secondary stage") | ![panoramic](insitu-photos/demo_sample/20210616_0001-O.jpg )
+![main stage](insitu-photos/demo_sample/20210616_0001-A.jpg "Main stage" height="300" width="300") | ![secondary stage](insitu-photos/demo_sample/20210616_0001-A.jpg "Secondary stage" height="300" width="300") | ![panoramic](insitu-photos/demo_sample/20210616_0001-O.jpg height="300" width="300")
 
 <p align="center">
 <img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/?raw=true" title="Main stage" alt="main stage" height="480" width="480">
