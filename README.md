@@ -6,7 +6,7 @@ To download the data, you can use the following links, taken from [the correspon
 * Phenology ground observations [(download link)](https://zenodo.org/record/7646864/files/in_situ_cotton_phenology_labels.csv?download=1)
 * Parcels' geometries [(download link)](https://zenodo.org/record/7646864/files/parcels.geojson?download=1)
 * Field images [(download link)](https://zenodo.org/record/7646864/files/cotton_phenology_in-situ_photos_2021.zip?download=1)
-  * _file size: ~190MB zipped -> ~210MB when unzipped_
+  * _file size: ~12.3GB
 <br/><br/>
 
 
