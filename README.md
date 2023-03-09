@@ -57,8 +57,8 @@ or download everything with `bash download.sh all`
 ### 1286 Unique Visits in 80 Parcels 
 
 <p float="center">
-<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/images/parcels.png" width="480" height="480">
-<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/images/labeled_parcels_all.png" width="480" height="480">
+<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/images/parcels.png" width="450" height="450">
+<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/images/labeled_parcels_all.png" width="450" height="450">
 </p>
 
 ### Overall Statistics
@@ -89,7 +89,7 @@ of main & secondary stages as recorded by inspector
   </tr>
   <tr>
     <td><img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/final_version/insitu-photos/demo_sample/20210616_0001-A.jpg" width=300 height=300></td>
-    <td><img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/final_version/insitu-photos/demo_sample/20210616_0001-B.jpg" width=270 height=300></td>
+    <td><img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/final_version/insitu-photos/demo_sample/20210616_0001-B.jpg" width=300 height=300></td>
     <td><img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/final_version/insitu-photos/demo_sample/20210616_0001-O.jpg" width=300 height=300></td>
   </tr>
  </table>
