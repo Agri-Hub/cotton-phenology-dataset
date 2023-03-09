@@ -82,9 +82,11 @@ of main & secondary stages as recorded by inspector
 ### Photos
 
 <p float="center">
-<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-A.jpg?raw=true" alt="parcel" height="400" width="400"/>
-<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-B.jpg?raw=true" alt="parcel" height="400" width="400"/>
-<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-O.jpg?raw=true" alt="parcel" height="400" width="400"/>
+<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-A.jpg?raw=true" alt="main stage" height="480" width="480" title="Main stage"/>
+<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-B.jpg?raw=true" alt="secondary stage" height="480" width="480" title="Secondary stage"/>
+</p>
+<p float="center">
+<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-O.jpg?raw=true" alt="parcel" height="600" width="600" title="Panoramic"/>
 </p>
 
 ### Acknowledgements
