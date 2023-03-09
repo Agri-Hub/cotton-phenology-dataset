@@ -80,8 +80,12 @@ of main & secondary stages as recorded by inspector
 <img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/images/ecdf_plot_12.png?raw=true" alt="ecdf_plot_12" width="700"/>
 
 ### Photos
-<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-O.jpg?raw=true" alt="parcel" width="600"/>
 
+<p float="center">
+<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-A.jpg?raw=true" alt="parcel" width="300"/>
+<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-B.jpg?raw=true" alt="parcel" width="300"/>
+<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-O.jpg?raw=true" alt="parcel" width="300"/>
+</p>
 
 ### Acknowledgements
 The polygons of parcels stem from [Agriculture Cooperative of Orchomenos](https://asoo.gr/)
