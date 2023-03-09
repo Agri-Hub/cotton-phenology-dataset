@@ -81,9 +81,18 @@ of main & secondary stages as recorded by inspector
 
 ### Photos
 
-         Main stage        |      Secondary stage      |        Panoramic         
-:-------------------------:|:-------------------------:|:-------------------------:
-![main stage](https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-A.jpg?raw=true "Main stage" height="300" width="300") | ![secondary stage](https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-B.jpg?raw=true "Secondary stage" height="300" width="300") | ![panoramic](https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-O.jpg?raw=true height="300" width="300")
+<table>
+  <tr>
+    <td>Main stage</td>
+     <td>Secondary stage</td>
+     <td>Panoramic</td>
+  </tr>
+  <tr>
+    <td><img src="(https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-A.jpg?raw=true" width=270 height=480></td>
+    <td><img src="(https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-B.jpg?raw=true" width=270 height=480></td>
+    <td><img src="(https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-O.jpg?raw=true" width=270 height=480></td>
+  </tr>
+ </table>
 
 ### Acknowledgements
 The polygons of parcels stem from [Agriculture Cooperative of Orchomenos](https://asoo.gr/)
