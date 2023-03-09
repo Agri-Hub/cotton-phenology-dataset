@@ -8,9 +8,9 @@ The dataset contains labels about the phenological stages of cotton at the parce
   - the nearest sentinel-2 acquistion date for each in-situ visit.
   - the sowing and the haverst (if available) dates for each parcel
 
-- a geojson file containing the gemoetries of all the parcels
+- a geojson file containing the geometries of all the parcels.
 
-- a unique dataset of 3,142 images. Each image is named in the following format:
+- the nearest sentinel-2 acquistion Each image is named in the following format:
 `{date}_{id}-{type}.jpg`, where `date` is in the format `{year}{month}{day}` and refes to the exact date that the image was captured, `id` is the unique id of a parcel and `type` is one of `O`, `A` or `B`. `O` refers to a panoramic photo of the entire field, `A` to a photo that is representative of the majority of the plants in the field and `B` to one representative of a minority of plants in the field. For each date and each unique parcel the first two exists always while the latter close-up photo had be captured only when the percentage of the minority class, in terms of area, was deemed significant. 
 
 ### Reference
@@ -52,14 +52,13 @@ bash download.sh phenology
 or download everything with `bash download.sh all`
 <br/><br/>
 
+## Overview
+
 ### 1286 Unique Visits in 80 Parcels 
-![parcels](/images/parcels.png)
-
-
+<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/images/parcels.png" width="480">
 
 ### Labels
-
-<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/images/labeled_parcels_all.png" width="240">
+<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/images/labeled_parcels_all.png" width="480">
 
 ### Overall Statistics
 
@@ -73,21 +72,13 @@ or download everything with `bash download.sh all`
 | `Boll Opening` | 97 | 177 | 6 |
 | **`Total`**[^2]  | **1286** | **668** | - |
 
-The  field  visits  were  appropriately  scheduled  in  order  to have  minimal  differences  between  ground  and  satellite  observations.  Thus, difference between  the  ground  and  the Sentinel-2 observation was `mean = 0.67 days` with `standard deviation = 0.58 days` .
-
-*(they will be public available after the paper publication)*
+The  field  visits  were  appropriately  scheduled  in  order  to have  minimal  differences  between  ground  and  satellite  observations.  Thus, difference between  the  ground  and  the Sentinel-2 observation was `mean = 0.86 days` with `standard deviation = 0.89 days` .
 
 #### Empirical cumulative distribution functions
 of main & secondary stages as recorded by inspector
 <img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/images/ecdf_plot_12.png?raw=true" alt="ecdf_plot_12" width="700"/>
 
 ### Photos
-[Here]() one can find all the photos from in-situ visits.
-
-*(they will be public available after the paper publication)* 
-
-They can be retrieved by photo's name. Specifically, each photo is named in the following form `Date_id-{O,A,B}.jpg` where `date = date of visit`, `id = the unqiue identifier of parcel in 4 digits e.g 0073` and one of three letters `{O,A,B}` where `O = overall`, `A = main stage` and `B = secondary stage` .
-
 <img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-O.jpg?raw=true" alt="parcel" width="600"/>
 
 
