@@ -55,7 +55,7 @@ or download everything with `bash download.sh all`
 
 ### Labels
 
-<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/images/labeled_parcels_all.png)" width="48">
+<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/tree/main/images/labeled_parcels_all.png" width="48">
 
 ### Overall Statistics
 
