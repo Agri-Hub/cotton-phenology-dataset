@@ -31,10 +31,10 @@ If you use this dataset please cite the publication below
 
 ## Downloading the phenology dataset through direct links
 To download the data, you can use the following links, taken from [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7646864.svg)](https://zenodo.org/record/7646864):
-* Phenology ground observations [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7646864.in_situ_cotton_phenology_labels.svg)](https://zenodo.org/record/7646864/files/in_situ_cotton_phenology_labels.csv?download=1)
+* Phenology ground observations [link](https://zenodo.org/record/7646864/files/in_situ_cotton_phenology_labels.csv?download=1)
     [(download link)]()
-* Parcels' geometries [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7646864.parcels.svg)](https://zenodo.org/record/7646864/files/parcels.geojson?download=1)
-* Field images [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7646864.insitu_photos_2021.svg)](https://zenodo.org/record/7646864/files/cotton_phenology_in-situ_photos_2021.zip?download=1)
+* Parcels' geometries [link](https://zenodo.org/record/7646864/files/parcels.geojson?download=1)
+* Field images [link](https://zenodo.org/record/7646864/files/cotton_phenology_in-situ_photos_2021.zip?download=1)
   * _file size: ~12.3GB
 <br/><br/>
 
