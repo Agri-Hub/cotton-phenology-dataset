@@ -4,7 +4,7 @@ The dataset contains labels about the phenological stages of cotton at the parce
 
 Along with the annotations we are publishing a unique dataset of 3,142 images. Each image is named in the following format:
 
-{date}_{id}-{type}.jpg, where "date" is in the format {year}{month}{day} and refes to the exact date that the image was captured, "id" is the unique id of a parcel and "type" is one of "O", "A" or "B". "O" refers to a panoramic photo of the entire field, "A" to a photo that is representative of the majority of the plants in the field and "B" to one representative of a minority of plants in the field. For each date and each unique parcel the first two exists always while the latter close-up photo had be captured only when the percentage of the minority class, in terms of area, was deemed significant. 
+`{date}_{id}-{type}.jpg`, where `date` is in the format `{year}{month}{day}` and refes to the exact date that the image was captured, `id` is the unique id of a parcel and `type` is one of "O", "A" or "B". "O" refers to a panoramic photo of the entire field, "A" to a photo that is representative of the majority of the plants in the field and "B" to one representative of a minority of plants in the field. For each date and each unique parcel the first two exists always while the latter close-up photo had be captured only when the percentage of the minority class, in terms of area, was deemed significant. 
 
 ### Reference
 
