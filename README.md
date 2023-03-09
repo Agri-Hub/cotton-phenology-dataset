@@ -83,15 +83,7 @@ of main & secondary stages as recorded by inspector
 
          Main stage        |      Secondary stage      |        Panoramic         
 :-------------------------:|:-------------------------:|:-------------------------:
-![main stage](insitu-photos/demo_sample/20210616_0001-A.jpg "Main stage" height="300" width="300") | ![secondary stage](insitu-photos/demo_sample/20210616_0001-A.jpg "Secondary stage" height="300" width="300") | ![panoramic](insitu-photos/demo_sample/20210616_0001-O.jpg height="300" width="300")
-
-<p align="center">
-<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/?raw=true" title="Main stage" alt="main stage" height="480" width="480">
-<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-B.jpg?raw=true"  title="Secondary stage" alt="secondary stage" height="480" width="480">
-</p>
-<p align="center">
-<img src="https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-O.jpg?raw=true" title="Panoramic" alt="panoramic" height="600" width="600" >
-</p>
+![main stage](https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-A.jpg?raw=true "Main stage" height="300" width="300") | ![secondary stage](https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-B.jpg?raw=true "Secondary stage" height="300" width="300") | ![panoramic](https://github.com/Agri-Hub/cotton-phenology-dataset/blob/main/insitu-photos/demo_sample/20210616_0001-O.jpg?raw=true height="300" width="300")
 
 ### Acknowledgements
 The polygons of parcels stem from [Agriculture Cooperative of Orchomenos](https://asoo.gr/)
